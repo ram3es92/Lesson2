@@ -1,0 +1,14 @@
+E:\Lesson2\task3\bin\Debug\net7.0\task3.exe
+E:\Lesson2\task3\bin\Debug\net7.0\task3.deps.json
+E:\Lesson2\task3\bin\Debug\net7.0\task3.runtimeconfig.json
+E:\Lesson2\task3\bin\Debug\net7.0\task3.dll
+E:\Lesson2\task3\bin\Debug\net7.0\task3.pdb
+E:\Lesson2\task3\obj\Debug\net7.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lesson2\task3\obj\Debug\net7.0\task3.AssemblyInfoInputs.cache
+E:\Lesson2\task3\obj\Debug\net7.0\task3.AssemblyInfo.cs
+E:\Lesson2\task3\obj\Debug\net7.0\task3.csproj.CoreCompileInputs.cache
+E:\Lesson2\task3\obj\Debug\net7.0\task3.dll
+E:\Lesson2\task3\obj\Debug\net7.0\refint\task3.dll
+E:\Lesson2\task3\obj\Debug\net7.0\task3.pdb
+E:\Lesson2\task3\obj\Debug\net7.0\task3.genruntimeconfig.cache
+E:\Lesson2\task3\obj\Debug\net7.0\ref\task3.dll
