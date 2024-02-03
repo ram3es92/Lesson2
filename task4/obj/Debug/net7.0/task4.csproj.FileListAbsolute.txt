@@ -1,0 +1,14 @@
+E:\Lesson2\task4\bin\Debug\net7.0\task4.exe
+E:\Lesson2\task4\bin\Debug\net7.0\task4.deps.json
+E:\Lesson2\task4\bin\Debug\net7.0\task4.runtimeconfig.json
+E:\Lesson2\task4\bin\Debug\net7.0\task4.dll
+E:\Lesson2\task4\bin\Debug\net7.0\task4.pdb
+E:\Lesson2\task4\obj\Debug\net7.0\task4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lesson2\task4\obj\Debug\net7.0\task4.AssemblyInfoInputs.cache
+E:\Lesson2\task4\obj\Debug\net7.0\task4.AssemblyInfo.cs
+E:\Lesson2\task4\obj\Debug\net7.0\task4.csproj.CoreCompileInputs.cache
+E:\Lesson2\task4\obj\Debug\net7.0\task4.dll
+E:\Lesson2\task4\obj\Debug\net7.0\refint\task4.dll
+E:\Lesson2\task4\obj\Debug\net7.0\task4.pdb
+E:\Lesson2\task4\obj\Debug\net7.0\task4.genruntimeconfig.cache
+E:\Lesson2\task4\obj\Debug\net7.0\ref\task4.dll
